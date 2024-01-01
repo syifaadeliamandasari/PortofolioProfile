@@ -1,0 +1,8 @@
+body {
+    background-color: #B6BBC4;
+}
+
+.biodata {
+    background: linear-gradient(#FFFFFF 0%, #B6BBC4 40%, #858a92 100%);
+    padding-bottom: 100px;
+}
